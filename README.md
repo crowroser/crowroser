@@ -17,5 +17,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crowroser&show_icons=true&locale=en&layout=compact" alt="crowroser" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crowroser&show_icons=true&locale=en" alt="crowroser" /></p>
+
 
