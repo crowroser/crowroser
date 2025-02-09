@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Android, Java, C#**
 
-- 📫 How to reach me **fatihgulcu285@gmail.com**
+- 📫 How to reach me **fatihgulcu@fatihgulcu.com.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
